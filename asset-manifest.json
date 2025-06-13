@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fantasy-chatbot/static/css/main.a38135e4.css",
+    "main.js": "/fantasy-chatbot/static/js/main.cd67fe0a.js",
+    "index.html": "/fantasy-chatbot/index.html",
+    "main.a38135e4.css.map": "/fantasy-chatbot/static/css/main.a38135e4.css.map",
+    "main.cd67fe0a.js.map": "/fantasy-chatbot/static/js/main.cd67fe0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a38135e4.css",
+    "static/js/main.cd67fe0a.js"
+  ]
+}
