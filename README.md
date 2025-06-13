@@ -34,3 +34,6 @@ git clone https://github.com/Soubhagya001/fantasy-chatbot.git
 cd fantasy-chatbot
 npm install
 npm start
+
+🚫 Please do not reuse this code for commercial purposes without permission.  
+🔒 This project is for personal/portfolio demonstration only.
