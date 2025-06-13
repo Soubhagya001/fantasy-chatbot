@@ -1,8 +1,8 @@
-
 {
   "name": "fantasy-chatbot-tailwind",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://Soubhagya001.github.io/fantasy-chatbot",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -12,14 +12,16 @@
   "devDependencies": {
     "tailwindcss": "^3.4.1",
     "postcss": "^8.4.38",
-    "autoprefixer": "^10.4.20"
+    "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
